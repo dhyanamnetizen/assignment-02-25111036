@@ -1,0 +1,42 @@
+[
+  {
+    "order_id": "ORD2001",
+    "customer_id": "CUST028",
+    "order_date": "2023-05-20",
+    "status": "delivered",
+    "total_amount": 2397,
+    "num_items": 1
+  },
+  {
+    "order_id": "ORD2002",
+    "customer_id": "CUST032",
+    "order_date": "2023-08-22",
+    "status": "delivered",
+    "total_amount": 6197,
+    "num_items": 3
+  },
+  {
+    "order_id": "ORD2003",
+    "customer_id": "CUST037",
+    "order_date": "2023-12-12",
+    "status": "delivered",
+    "total_amount": 9897,
+    "num_items": 1
+  },
+  {
+    "order_id": "ORD2004",
+    "customer_id": "CUST003",
+    "order_date": "2023-01-07",
+    "status": "shipped",
+    "total_amount": 5596,
+    "num_items": 2
+  },
+  {
+    "order_id": "ORD2005",
+    "customer_id": "CUST012",
+    "order_date": "2023-01-19",
+    "status": "processing",
+    "total_amount": 15792,
+    "num_items": 4
+  }
+]
